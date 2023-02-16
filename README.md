@@ -4,7 +4,7 @@ My name is Ricardo!
 
 
 - 🔥 Mobile developer focused on learning more and more
-- 🔭 I’m currently working on at [Olist](https://www.olist.com)
+- 🔭 I am currently open to new opportunities
 - 🌱 I’m currently learning Node and JavaScript
 - 📫 How to reach me: oricardo_@hotmail.com
 
